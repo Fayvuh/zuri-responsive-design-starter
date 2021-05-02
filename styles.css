@@ -276,7 +276,8 @@ div.box3 h5 {
     div.snapshot-box {
         padding: 2rem 0rem;
     }
-    div.snapshot-box-content {               
+    div.snapshot-box-content {      
+        display: flex;         
         flex-direction: column;
     }
     
